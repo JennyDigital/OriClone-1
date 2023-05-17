@@ -9,4 +9,4 @@ Please note that the W65C22S version of the VIA IC won't let the cassette port r
 
 Regards,
 
-DigitalDunc.
+JennyDigital.
