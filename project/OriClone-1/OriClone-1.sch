@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,16 +53,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -170,12 +170,13 @@
 <pad name="ULA_A6" x="7.62" y="24.13" drill="0.8" shape="long" rot="R180"/>
 <wire x1="-10.16" y1="26.67" x2="-1.27" y2="26.67" width="0.127" layer="21"/>
 <wire x1="-1.27" y1="26.67" x2="2.54" y2="26.67" width="0.127" layer="21"/>
-<wire x1="2.54" y1="26.67" x2="11.43" y2="26.67" width="0.127" layer="21"/>
-<wire x1="11.43" y1="26.67" x2="11.43" y2="-26.67" width="0.127" layer="21"/>
-<wire x1="11.43" y1="-26.67" x2="-10.16" y2="-26.67" width="0.127" layer="21"/>
+<wire x1="2.54" y1="26.67" x2="10.16" y2="26.67" width="0.127" layer="21"/>
+<wire x1="10.16" y1="26.67" x2="10.16" y2="-26.67" width="0.127" layer="21"/>
+<wire x1="10.16" y1="-26.67" x2="-10.16" y2="-26.67" width="0.127" layer="21"/>
 <wire x1="-10.16" y1="-26.67" x2="-10.16" y2="26.67" width="0.127" layer="21"/>
 <wire x1="2.54" y1="26.67" x2="-1.27" y2="26.67" width="0.127" layer="21" curve="-180"/>
-<text x="-11.43" y="-10.16" size="1.778" layer="21" rot="R90">HCS10017_ULA</text>
+<text x="2.54" y="-3.81" size="1.27" layer="21" font="vector" rot="R90">&gt;VALUE</text>
+<text x="-1.27" y="-3.81" size="1.27" layer="21" rot="R90">&gt;NAME</text>
 </package>
 </packages>
 <symbols>
@@ -17574,7 +17575,7 @@ diameter 1.8 mm, horizontal, grid 7.62 mm</description>
 </class>
 </classes>
 <parts>
-<part name="IC1" library="ORIC_Parts" deviceset="HCS10017_DEV" device=""/>
+<part name="IC1" library="ORIC_Parts" deviceset="HCS10017_DEV" device="" value="IC1"/>
 <part name="IC2" library="74xx-us" deviceset="74*04" device="N" technology="LS" value="74F04N"/>
 <part name="Q1" library="crystal" deviceset="CRYSTAL" device="HC49U-V" value="12MHz"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="0207/2V" value="1K"/>
@@ -17588,7 +17589,7 @@ diameter 1.8 mm, horizontal, grid 7.62 mm</description>
 <part name="IC3" library="74xx-eu" deviceset="74*257" device="N" technology="LS"/>
 <part name="IC4" library="74xx-eu" deviceset="74*257" device="N" technology="LS"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="U1" library="ay-3-8912" deviceset="AY-3-8912-DIP" device="" value="AY-3-8912"/>
+<part name="IC15" library="ay-3-8912" deviceset="AY-3-8912-DIP" device="" value="AY-3-8912"/>
 <part name="P+4" library="supply1" deviceset="+5V" device=""/>
 <part name="R6" library="rcl" deviceset="R-EU_" device="0207/2V" value="47K"/>
 <part name="R7" library="rcl" deviceset="R-EU_" device="0207/10" value="47K"/>
@@ -17646,7 +17647,7 @@ diameter 1.8 mm, horizontal, grid 7.62 mm</description>
 <part name="P+15" library="supply1" deviceset="+5V" device=""/>
 <part name="R21" library="rcl" deviceset="R-EU_" device="0207/10" value="470R"/>
 <part name="R22" library="rcl" deviceset="R-EU_" device="0207/10" value="1K"/>
-<part name="R23" library="rcl" deviceset="R-EU_" device="0207/2V" value="4K7"/>
+<part name="R23" library="rcl" deviceset="R-EU_" device="0207/10" value="4K7"/>
 <part name="C6" library="rcl" deviceset="C-EU" device="050-025X075" value="10nF"/>
 <part name="C7" library="rcl" deviceset="CPOL-EU" device="E5-6" value="2.2uF"/>
 <part name="IC9" library="74xx-eu" deviceset="74*365" device="N" technology="LS"/>
@@ -17718,7 +17719,7 @@ diameter 1.8 mm, horizontal, grid 7.62 mm</description>
 <part name="IC7" library="EEPROMs" deviceset="28C256_DIP" device=""/>
 <part name="R35" library="rcl" deviceset="R-EU_" device="0207/10" value="2K2"/>
 <part name="S1" library="SparkFun" deviceset="TAC_SWITCH" device="PTH"/>
-<part name="R36" library="rcl" deviceset="R-EU_" device="0207/7" value="100K"/>
+<part name="R36" library="rcl" deviceset="R-EU_" device="0207/10" value="100K"/>
 <part name="P+33" library="supply1" deviceset="+5V" device=""/>
 <part name="GND32" library="supply1" deviceset="GND" device=""/>
 <part name="SK1" library="Lumberg-0105-DIN" deviceset="LUMBERG_DIN_0105_08-1" device=""/>
@@ -18461,7 +18462,7 @@ or Tant only.</text>
 from either the video port or the cassette port.</text>
 </plain>
 <instances>
-<instance part="U1" gate="G$1" x="162.56" y="124.46"/>
+<instance part="IC15" gate="G$1" x="162.56" y="124.46"/>
 <instance part="P+4" gate="1" x="180.34" y="157.48"/>
 <instance part="R6" gate="G$1" x="66.04" y="160.02" rot="R90"/>
 <instance part="R7" gate="G$1" x="83.82" y="157.48" rot="R180"/>
@@ -18515,7 +18516,7 @@ from either the video port or the cassette port.</text>
 <nets>
 <net name="PA0" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DA0"/>
+<pinref part="IC15" gate="G$1" pin="DA0"/>
 <wire x1="175.26" y1="142.24" x2="185.42" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="142.24" x2="187.96" y2="144.78" width="0.1524" layer="91"/>
 <label x="184.404" y="143.51" size="1.016" layer="95" rot="R180"/>
@@ -18523,7 +18524,7 @@ from either the video port or the cassette port.</text>
 </net>
 <net name="PA1" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DA1"/>
+<pinref part="IC15" gate="G$1" pin="DA1"/>
 <wire x1="175.26" y1="139.7" x2="185.42" y2="139.7" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="139.7" x2="187.96" y2="142.24" width="0.1524" layer="91"/>
 <label x="184.404" y="140.97" size="1.016" layer="95" rot="R180"/>
@@ -18531,7 +18532,7 @@ from either the video port or the cassette port.</text>
 </net>
 <net name="PA2" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DA2"/>
+<pinref part="IC15" gate="G$1" pin="DA2"/>
 <wire x1="175.26" y1="137.16" x2="185.42" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="137.16" x2="187.96" y2="139.7" width="0.1524" layer="91"/>
 <label x="184.404" y="138.684" size="1.016" layer="95" rot="R180"/>
@@ -18539,7 +18540,7 @@ from either the video port or the cassette port.</text>
 </net>
 <net name="PA3" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DA3"/>
+<pinref part="IC15" gate="G$1" pin="DA3"/>
 <wire x1="175.26" y1="134.62" x2="185.42" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="134.62" x2="187.96" y2="137.16" width="0.1524" layer="91"/>
 <label x="184.404" y="135.89" size="1.016" layer="95" rot="R180"/>
@@ -18547,7 +18548,7 @@ from either the video port or the cassette port.</text>
 </net>
 <net name="PA4" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DA4"/>
+<pinref part="IC15" gate="G$1" pin="DA4"/>
 <wire x1="175.26" y1="132.08" x2="185.42" y2="132.08" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="132.08" x2="187.96" y2="134.62" width="0.1524" layer="91"/>
 <label x="184.404" y="133.35" size="1.016" layer="95" rot="R180"/>
@@ -18555,7 +18556,7 @@ from either the video port or the cassette port.</text>
 </net>
 <net name="PA5" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DA5"/>
+<pinref part="IC15" gate="G$1" pin="DA5"/>
 <wire x1="175.26" y1="129.54" x2="185.42" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="129.54" x2="187.96" y2="132.08" width="0.1524" layer="91"/>
 <label x="184.404" y="130.81" size="1.016" layer="95" rot="R180"/>
@@ -18563,7 +18564,7 @@ from either the video port or the cassette port.</text>
 </net>
 <net name="PA6" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DA6"/>
+<pinref part="IC15" gate="G$1" pin="DA6"/>
 <wire x1="175.26" y1="127" x2="185.42" y2="127" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="127" x2="187.96" y2="129.54" width="0.1524" layer="91"/>
 <label x="184.404" y="128.27" size="1.016" layer="95" rot="R180"/>
@@ -18571,7 +18572,7 @@ from either the video port or the cassette port.</text>
 </net>
 <net name="PA7" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="DA7"/>
+<pinref part="IC15" gate="G$1" pin="DA7"/>
 <wire x1="175.26" y1="124.46" x2="185.42" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="124.46" x2="187.96" y2="127" width="0.1524" layer="91"/>
 <label x="184.404" y="125.73" size="1.016" layer="95" rot="R180"/>
@@ -18579,38 +18580,38 @@ from either the video port or the cassette port.</text>
 </net>
 <net name="CA2" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="BC1"/>
+<pinref part="IC15" gate="G$1" pin="BC1"/>
 <wire x1="185.42" y1="121.92" x2="175.26" y2="121.92" width="0.1524" layer="91"/>
 <label x="185.42" y="121.92" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="CB2" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="BDIR"/>
+<pinref part="IC15" gate="G$1" pin="BDIR"/>
 <wire x1="185.42" y1="116.84" x2="175.26" y2="116.84" width="0.1524" layer="91"/>
 <label x="185.42" y="116.84" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="!RESET" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="!RESET"/>
+<pinref part="IC15" gate="G$1" pin="!RESET"/>
 <wire x1="185.42" y1="111.76" x2="175.26" y2="111.76" width="0.1524" layer="91"/>
 <label x="185.42" y="111.76" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PHI1" class="0">
 <segment>
-<pinref part="U1" gate="G$1" pin="CLOCK"/>
+<pinref part="IC15" gate="G$1" pin="CLOCK"/>
 <wire x1="185.42" y1="109.22" x2="175.26" y2="109.22" width="0.1524" layer="91"/>
 <label x="185.42" y="109.22" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="+5V" class="1">
 <segment>
-<pinref part="U1" gate="G$1" pin="VCC"/>
+<pinref part="IC15" gate="G$1" pin="VCC"/>
 <wire x1="149.86" y1="137.16" x2="142.24" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="142.24" y1="137.16" x2="142.24" y2="147.32" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="BC2"/>
+<pinref part="IC15" gate="G$1" pin="BC2"/>
 <wire x1="180.34" y1="119.38" x2="175.26" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="180.34" y1="154.94" x2="180.34" y2="147.32" width="0.1524" layer="91"/>
 <pinref part="P+4" gate="1" pin="+5V"/>
@@ -18664,7 +18665,7 @@ from either the video port or the cassette port.</text>
 <wire x1="44.45" y1="132.08" x2="44.45" y2="105.41" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="VSS"/>
+<pinref part="IC15" gate="G$1" pin="VSS"/>
 <wire x1="149.86" y1="129.54" x2="139.7" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="139.7" y1="129.54" x2="124.46" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="124.46" y1="129.54" x2="124.46" y2="127" width="0.1524" layer="91"/>
@@ -18699,7 +18700,7 @@ from either the video port or the cassette port.</text>
 <label x="58.42" y="110.49" size="1.016" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IOA0"/>
+<pinref part="IC15" gate="G$1" pin="IOA0"/>
 <wire x1="149.86" y1="109.22" x2="132.08" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="109.22" x2="129.54" y2="106.68" width="0.1524" layer="91"/>
 <label x="144.78" y="110.49" size="1.016" layer="95" rot="R180"/>
@@ -18713,7 +18714,7 @@ from either the video port or the cassette port.</text>
 <label x="58.42" y="113.03" size="1.016" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IOA1"/>
+<pinref part="IC15" gate="G$1" pin="IOA1"/>
 <wire x1="149.86" y1="111.76" x2="132.08" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="111.76" x2="129.54" y2="109.22" width="0.1524" layer="91"/>
 <label x="144.78" y="113.03" size="1.016" layer="95" rot="R180"/>
@@ -18727,7 +18728,7 @@ from either the video port or the cassette port.</text>
 <label x="58.42" y="115.57" size="1.016" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IOA2"/>
+<pinref part="IC15" gate="G$1" pin="IOA2"/>
 <wire x1="149.86" y1="114.3" x2="132.08" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="114.3" x2="129.54" y2="111.76" width="0.1524" layer="91"/>
 <label x="144.78" y="115.57" size="1.016" layer="95" rot="R180"/>
@@ -18741,7 +18742,7 @@ from either the video port or the cassette port.</text>
 <label x="58.42" y="118.11" size="1.016" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IOA3"/>
+<pinref part="IC15" gate="G$1" pin="IOA3"/>
 <wire x1="149.86" y1="116.84" x2="132.08" y2="116.84" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="116.84" x2="129.54" y2="114.3" width="0.1524" layer="91"/>
 <label x="144.78" y="118.11" size="1.016" layer="95" rot="R180"/>
@@ -18755,7 +18756,7 @@ from either the video port or the cassette port.</text>
 <label x="58.42" y="120.65" size="1.016" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IOA7"/>
+<pinref part="IC15" gate="G$1" pin="IOA7"/>
 <wire x1="149.86" y1="127" x2="132.08" y2="127" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="127" x2="129.54" y2="124.46" width="0.1524" layer="91"/>
 <label x="144.78" y="128.27" size="1.016" layer="95" rot="R180"/>
@@ -18794,7 +18795,7 @@ from either the video port or the cassette port.</text>
 <label x="58.42" y="130.81" size="1.016" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IOA6"/>
+<pinref part="IC15" gate="G$1" pin="IOA6"/>
 <wire x1="149.86" y1="124.46" x2="132.08" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="124.46" x2="129.54" y2="121.92" width="0.1524" layer="91"/>
 <label x="144.78" y="125.73" size="1.016" layer="95" rot="R180"/>
@@ -18809,7 +18810,7 @@ from either the video port or the cassette port.</text>
 <label x="58.42" y="138.43" size="1.016" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IOA4"/>
+<pinref part="IC15" gate="G$1" pin="IOA4"/>
 <wire x1="149.86" y1="119.38" x2="132.08" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="119.38" x2="129.54" y2="116.84" width="0.1524" layer="91"/>
 <label x="144.78" y="120.65" size="1.016" layer="95" rot="R180"/>
@@ -18824,7 +18825,7 @@ from either the video port or the cassette port.</text>
 <label x="58.42" y="135.89" size="1.016" layer="95" rot="R180"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="IOA5"/>
+<pinref part="IC15" gate="G$1" pin="IOA5"/>
 <wire x1="149.86" y1="121.92" x2="132.08" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="121.92" x2="129.54" y2="119.38" width="0.1524" layer="91"/>
 <label x="144.78" y="123.19" size="1.016" layer="95" rot="R180"/>
@@ -18851,15 +18852,15 @@ from either the video port or the cassette port.</text>
 <pinref part="R23" gate="G$1" pin="2"/>
 <wire x1="139.7" y1="175.26" x2="139.7" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="139.7" y1="177.8" x2="142.24" y2="177.8" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="CH_A"/>
+<pinref part="IC15" gate="G$1" pin="CH_A"/>
 <wire x1="149.86" y1="132.08" x2="129.54" y2="132.08" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="132.08" x2="129.54" y2="134.62" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="CH_B"/>
+<pinref part="IC15" gate="G$1" pin="CH_B"/>
 <wire x1="129.54" y1="134.62" x2="129.54" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="142.24" x2="129.54" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="134.62" x2="129.54" y2="134.62" width="0.1524" layer="91"/>
 <junction x="129.54" y="134.62"/>
-<pinref part="U1" gate="G$1" pin="CH_C"/>
+<pinref part="IC15" gate="G$1" pin="CH_C"/>
 <wire x1="149.86" y1="142.24" x2="129.54" y2="142.24" width="0.1524" layer="91"/>
 <junction x="129.54" y="142.24"/>
 <wire x1="139.7" y1="177.8" x2="129.54" y2="177.8" width="0.1524" layer="91"/>
@@ -21315,7 +21316,7 @@ room for either including heatsink space.</text>
 <approved hash="104,1,294.64,144.78,IC2P,VCC,+5V,,,"/>
 <approved hash="104,1,302.26,144.78,IC3P,VCC,+5V,,,"/>
 <approved hash="104,1,309.88,144.78,IC4P,VCC,+5V,,,"/>
-<approved hash="202,2,175.26,114.3,U1,A8,,,,"/>
+<approved hash="202,2,175.26,114.3,IC15,A8,,,,"/>
 <approved hash="104,3,254,68.58,IC8P,VCC,+5V,,,"/>
 <approved hash="204,4,31.75,106.68,X1,PE,,,,"/>
 <approved hash="204,4,57.15,106.68,X1,PE,,,,"/>
@@ -21331,7 +21332,6 @@ room for either including heatsink space.</text>
 <approved hash="206,2,149.86,132.08,N$20,,,,,"/>
 <approved hash="206,2,149.86,134.62,N$20,,,,,"/>
 <approved hash="206,2,149.86,142.24,N$20,,,,,"/>
-<approved hash="113,1,185.098,149.712,IC1,,,,,"/>
 <approved hash="113,2,37.8629,124.329,JP1,,,,,"/>
 <approved hash="113,3,66.04,73.66,IC5,,,,,"/>
 <approved hash="113,3,134.62,73.66,IC6,,,,,"/>
